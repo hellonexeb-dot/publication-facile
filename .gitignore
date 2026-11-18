@@ -1,0 +1,6 @@
+# Seul le code de l'extension est publié. Les notes du projet restent sur l'ordinateur.
+/*
+!/.gitignore
+!/README.md
+!/build.py
+!/publication-facile/
